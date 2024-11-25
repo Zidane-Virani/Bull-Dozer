@@ -2,6 +2,8 @@
 
 This project predicts bulldozer sale prices using historical auction data. By applying advanced **Linear Regression** techniques, the model achieves a prediction accuracy of **95%**. Key optimizations include **Ridge** and **Lasso Regression** for feature selection and improved performance.
 
+**Key Takeaway:** The most important factor in the sale of bulldoze is the year it was made
+
 ## Overview
 
 Accurate price prediction in the heavy equipment market empowers buyers and sellers with better decision-making tools. This project builds a high-performing machine learning model trained on over **400,000 records**, achieving outstanding results and securing a **Top 28 / 500 ranking on Kaggle**.
